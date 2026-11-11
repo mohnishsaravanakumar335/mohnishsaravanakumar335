@@ -3,10 +3,13 @@
 Data Science student at UC San Diego with a background in robotics, hardware design, and entrepreneurship. I like building things that solve real-world problems.
 
 ## About Me
-- 🤖 Founder and captain of my high school FTC robotics team (mechanical design and autonomous logic)
-- 🚁 Member of Triton UAS at UCSD, working on drone payload design currently
-- 💼 DECA competitor and founder of Servza, an on-demand home repair app concept
-- 🌱 Long-term goal: build affordable robots for healthcare and sustainable agriculture
+- 🤖 Design robotic mechanisms in CAD, from concept sketches to 3D printed prototypes
+- ⚙️ Experienced with servo integration, motor placement, wiring layout, and power distribution in robotic systems
+- 🔌 Build and program microcontroller-based systems with sensors for monitoring and control
+- 🧭 Develop and debug autonomous logic using test data to find mechanical, electrical, and software issues
+- 👁️ Work with computer vision using Python and OpenCV
+- 🚁 Currently working on drone payload design with Triton UAS at UCSD
+- 📊 Learning to combine data science and machine learning with hardware to build smarter physical systems
 
 ## Skills
 - **Hardware & Design:** CAD (Fusion 360), mechanism design, prototyping
