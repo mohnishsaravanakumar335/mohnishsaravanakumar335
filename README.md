@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohnish 👋
 
-<!--
-**mohnishsaravanakumar335/mohnishsaravanakumar335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at UC San Diego with a background in robotics, hardware design, and entrepreneurship. I like building things that solve real-world problems.
 
-Here are some ideas to get you started:
+## About Me
+- 🤖 Founder and captain of my high school FTC robotics team (mechanical design and autonomous logic)
+- 🚁 Member of Triton UAS at UCSD, working on drone payload design currently
+- 💼 DECA competitor and founder of Servza, an on-demand home repair app concept
+- 🌱 Long-term goal: build affordable robots for healthcare and sustainable agriculture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Hardware & Design:** CAD (Fusion 360), mechanism design, prototyping
+- **Programming:** Python, Java, C++, AI-assisted development
+- **Interests:** Robotics, IoT, machine learning, data-driven engineering, AI
+
+## Currently
+- 📊 Learning data science and machine learning at UCSD
+- 🔧 Building projects that connect hardware with data
+
+## Connect
+- [LinkedIn]([https://www.linkedin.com/in/mohnish-saravanakumar-20903a2b3/])
