@@ -7,7 +7,7 @@ Data Science student at UC San Diego with a background in robotics, hardware des
 - ⚙️ Experienced with servo integration, motor placement, wiring layout, and power distribution in robotic systems
 - 🔌 Build and program microcontroller-based systems with sensors for monitoring and control
 - 🧭 Develop and debug autonomous logic using test data to find mechanical, electrical, and software issues
-- 👁️ Work with computer vision using Python and OpenCV
+- 👁️ Worked with computer vision using Python and OpenCV
 - 🚁 Currently working on drone payload design with Triton UAS at UCSD
 - 📊 Learning to combine data science and machine learning with hardware to build smarter physical systems
 
