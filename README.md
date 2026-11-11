@@ -18,4 +18,4 @@ Data Science student at UC San Diego with a background in robotics, hardware des
 - 🔧 Building projects that connect hardware with data
 
 ## Connect
-- [LinkedIn]([https://www.linkedin.com/in/mohnish-saravanakumar-20903a2b3/])
+-  [LinkedIn](https://www.linkedin.com/in/mohnish-saravanakumar-20903a2b3/)
