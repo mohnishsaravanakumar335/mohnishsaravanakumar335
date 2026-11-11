@@ -12,7 +12,7 @@ Data Science student at UC San Diego with a background in robotics, hardware des
 - 📊 Learning to combine data science and machine learning with hardware to build smarter physical systems
 
 ## Skills
-- **Hardware & Design:** CAD (Fusion 360), mechanism design, prototyping
+- **Hardware & Design:** CAD (Fusion 360), mechanism design, prototyping, sketching, breadboard & circuits 
 - **Programming:** Python, Java, C++, AI-assisted development
 - **Interests:** Robotics, IoT, machine learning, data-driven engineering, AI
 
